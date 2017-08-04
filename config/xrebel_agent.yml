@@ -16,5 +16,5 @@
 # Configuration for the XRebel framework
 ---
 version: 3.3.5
-repository_root: https://dl.zeroturnaround.com/xrebel
+repository_root: https://s3.us-east-2.amazonaws.com/xr-cf
 enabled: true
