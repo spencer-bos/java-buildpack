@@ -65,6 +65,7 @@ module Package
       'groovy'                              => 'Groovy',
       'jre'                                 => 'OpenJDK JRE',
       'jrebel_agent'                        => 'JRebel Agent',
+      'xrebel_agent'                        => 'XRebel Agent',
       'jvmkill_agent'                       => 'jvmkill Agent',
       'lifecycle_support'                   => 'Tomcat Lifecycle Support',
       'logging_support'                     => 'Tomcat Logging Support',

@@ -52,6 +52,7 @@ frameworks:
   - "JavaBuildpack::Framework::JavaMemoryAssistant"
   - "JavaBuildpack::Framework::Jmx"
   - "JavaBuildpack::Framework::JrebelAgent"
+  - "JavaBuildpack::Framework::XrebelAgent"
   - "JavaBuildpack::Framework::LunaSecurityProvider"
   - "JavaBuildpack::Framework::MariaDbJDBC"
   - "JavaBuildpack::Framework::MetricWriter"
