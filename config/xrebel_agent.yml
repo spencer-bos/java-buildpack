@@ -16,5 +16,5 @@
 # Configuration for the XRebel framework
 ---
 version: 3.3.5
-repository_root: https://s3.us-east-2.amazonaws.com/xr-cf
+repository_root: https://github.com/spencer-bos/java-buildpack/tree/master/xrebel
 enabled: true
