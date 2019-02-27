@@ -16,5 +16,5 @@
 # Configuration for the XRebel framework
 ---
 version: 3.6.0
-repository_root: /java-buildpack/xrebel_agent
+repository_root: /java-buildpack/xrebel_agent/xrebel.jar
 enabled: true
