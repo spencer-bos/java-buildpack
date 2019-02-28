@@ -37,7 +37,7 @@ module JavaBuildpack
       def release
         @droplet
           .java_opts
-          .add_javaagent('/xrebel.jar')
+          .add_javaagent('xrebel.jar')
       end
 
       protected
