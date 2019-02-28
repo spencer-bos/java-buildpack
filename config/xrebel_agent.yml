@@ -16,5 +16,5 @@
 # Configuration for the XRebel framework
 ---
 version: 3.6.0
-repository_root: https://zeroturnaround.com/software/xrebel/download/thank-you/?file=xrebel/releases/
+repository_root: https://dl.zeroturnaround.com/?token=ce785c513eb316d41b59c552bceb1c3046f46b83
 enabled: true
